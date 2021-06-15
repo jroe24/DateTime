@@ -10,14 +10,13 @@
 <title>Time Dashboard</title>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
-<script type="text/javascript" src="js/app.js"></script>
 </head>
 <body>
 	<div class="container">
-		<div class="row mt-3 color-red">
-			<a class="col-sm-6 text-center text-primary" href="/date">Date Template</a>
-			<a class="col-sm-6 text-center text-primary" href="/time">Time Template</a>
-		</div>
+		<h1>
+			<a href="/date">Date Template</a>
+			<a href="/time">Time Template</a>
+		</h1>
 	</div>
 </body>
 </html>
